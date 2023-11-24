@@ -1,0 +1,1 @@
+![EMart setup](EMart_App_Architecture.png)
